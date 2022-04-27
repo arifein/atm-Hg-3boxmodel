@@ -6,3 +6,4 @@ atm_3box_model_Hg.py - Code to initialize, run, and visualize atmospheric Hg box
 
 Originally described in Feinberg et al. (2022): Evaluating atmospheric mercury (Hg) uptake by vegetation in a chemistry-transport model, Environmental Science: Processes & Impacts, https://doi.org/10.1039/D2EM00032F. The code builds off of an earlier Hg box model Python implementation from Noelle Selin, https://github.com/noelleselin/sixboxmercury.
 
+[![DOI](https://zenodo.org/badge/451642669.svg)](https://zenodo.org/badge/latestdoi/451642669)
